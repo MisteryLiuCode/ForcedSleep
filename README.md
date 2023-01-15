@@ -22,17 +22,27 @@ ps:youtube演示视频，需翻墙
 
 ## 教程
 
-下载录屏自动化软件`Keysmith`，点击下载：https://www.keysmith.app/
+- 下载录屏自动化软件`Keysmith`，点击下载：https://www.keysmith.app/
+  - 我使用的自动化脚本
+    - keysmith://run-macro/B0B37463-047D-44EB-B82C-05F4A9F89483
+  - 下载链接
+    - https://misteryliu.oss-cn-beijing.aliyuncs.com/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%84%9A%E6%9C%AC.keysmith
 
-生成密码网站使用了github的项目，改了源代码，使其能够把生成的密码隐藏，并自动复制到自己的剪贴板上
-- 源项目：https://github.com/52admln/ram-password
-- 改后的项目：https://github.com/MisteryLiuCode/PwdRamClip.git
-- 或者使用我的链接：http://pwd.misteryliu.top/
+- 生成密码网站使用了github的项目，改了源代码，使其能够把生成的密码隐藏，并自动复制到自己的剪贴板上
+  - 源项目：https://github.com/52admln/ram-password
 
-给密码生成链接的网站同样是修改了源代码
-- 源项目：https://github.com/BillKeenan/dead-drop-python
-- 改后的项目：https://github.com/MisteryLiuCode/GenLinkPeriod.git
-- 此代码最好部署在别人服务器上，或者使用我的链接生成：http://msg.misteryliu.top/
+  - 改后的项目：https://github.com/MisteryLiuCode/PwdRamClip.git
+
+  - 或者使用我的链接：http://pwd.misteryliu.top/
+
+
+- 给密码生成链接的网站同样是修改了源代码
+  - 源项目：https://github.com/BillKeenan/dead-drop-python
+
+  - 改后的项目：https://github.com/MisteryLiuCode/GenLinkPeriod.git
+
+  - 此代码最好部署在别人服务器上，或者使用我的链接生成：http://msg.misteryliu.top/
+
 
 在给电脑设置屏幕时间密码的时候，原生不支持直接粘贴的方式设置密码，而使用键盘的方式使输入又暴露了密码，可以使用以下软件强制粘贴，下载方式
 - https://github.com/EugeneDae/Force-Paste
