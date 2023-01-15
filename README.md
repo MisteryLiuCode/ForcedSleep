@@ -13,13 +13,8 @@
 - 说明：以下效果是电脑电脑自动执行的过程，你可以看着电脑自动执行，保证密码被正确设置，保证执行无误，而且你在全程无法看到密码，最后密码只能通过生成的链接和密码三天之后才能拿到。
 - 如果你使用的是苹果全家桶，那么这个方案很适合你
 
-ps:此处有一个演示视频，需要等待加载
-
-![image](https://misteryliu.oss-cn-beijing.aliyuncs.com/image%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B62023-01-15-15.19.08.gif)
-
-github链接视频如下
-
-https://user-images.githubusercontent.com/77911473/212530200-43e303fa-53d0-4990-8dbf-6acab682be36.mov
+ps:youtube演示视频，需等待加载
+[![苹果设备，强制并有规律的熬夜解决方案](https://res.cloudinary.com/marcomontalbano/image/upload/v1673771554/video_to_markdown/images/youtube--_b0qzMdgXK8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/_b0qzMdgXK8 "苹果设备，强制并有规律的熬夜解决方案")
 ## 前提条件
 
 - 一台mac
