@@ -15,7 +15,7 @@
 
 ps:此处有一个演示视频，需要等待加载
 
-![屏幕录制2023-01-15-15.19.08](https://misteryliu.oss-cn-beijing.aliyuncs.com/image%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B62023-01-15-15.19.08.gif)
+![image](https://misteryliu.oss-cn-beijing.aliyuncs.com/image%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B62023-01-15-15.19.08.gif)
 
 ## 前提条件
 
