@@ -37,4 +37,4 @@ ps:youtube演示视频，需翻墙
   - 如果不能使用，大概率可以通过这里找到答案
     - https://github.com/EugeneDae/Force-Paste/issues/12
 - 最后的一步调出弹窗，输入1234使用的软件是`bob`，，此目的是为了覆盖之前的剪贴板，使密码彻底不可见！，软件链接的点这里https://github.com/ripperhe/Bob
-- 接下来就靠你自由发挥了，如果有不懂的或者有新的想法欢迎提Issue，或者给我发邮件：misteryliu@outlookc.om
+- 接下来就靠你自由发挥了，如果有不懂的或者有新的想法欢迎提Issue，或者给我发邮件：misteryliu@outlookc.com
