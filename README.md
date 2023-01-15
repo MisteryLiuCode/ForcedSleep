@@ -17,6 +17,9 @@ ps:此处有一个演示视频，需要等待加载
 
 ![image](https://misteryliu.oss-cn-beijing.aliyuncs.com/image%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B62023-01-15-15.19.08.gif)
 
+github链接视频如下
+
+https://user-images.githubusercontent.com/77911473/212530200-43e303fa-53d0-4990-8dbf-6acab682be36.mov
 ## 前提条件
 
 - 一台mac
